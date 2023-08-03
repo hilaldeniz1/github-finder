@@ -6,6 +6,10 @@
 
 -api-key alma: https://github.com/settings/developers
 
+- ### 'Screen'
+
+![](screen-gthb.gif)
+
 # Yapılacaklar
 
 - input alanına girilen ismi ara butonuna tıklanınca al
@@ -23,4 +27,5 @@
 - kullanıcı aratılınca `api` linkine `kullanıcı adı/repos` ekleyip istek at
 
 - - gelen projeler dizisindeki her bir eleman icin ekrana proje kartı bas
+
 # github-finder
